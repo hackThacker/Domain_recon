@@ -15,7 +15,7 @@
 - suppose you enter "geekforgeek.org"
 - it will not print for some minutes any things 
 - it creates a txt formate file and save all output in that files 
-- output comes in "enu_domain_list.txt" 
+- output comes in "enu_domain_list.txt" after all complete the text file has list of the subdomain
 
 # contribution
 - plz contribution more hacking tools and share me to other help to learn and understand new toolos
