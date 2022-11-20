@@ -2,7 +2,6 @@
 import requests
 import sys
 import os
-import time
 
 start = time.time()
 # function for scanning subdomains
@@ -76,6 +75,3 @@ else:
     [2] large.txt   3.14 MB    More Time
     [@] Please chose 1 and 2 only Thank you ..<
                 """)
-
-elapsed = time.strftime("%H:%M:%S", time.gmtime(time.time() - start))
-print(f"Took: {elapsed}")
